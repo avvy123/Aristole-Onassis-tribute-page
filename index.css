@@ -1,0 +1,49 @@
+body{
+    margin-top: 10px;
+    background-color: #ddd;
+    
+}
+.container{
+    display: inline-block;
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-center1{
+    text-align: center;
+    padding: 5px;
+}
+
+.text-center2{
+    text-align: left;
+    margin: 10px;
+}
+
+.thumbnail-center{
+    text-align: justify;
+    background-color: #ebf2ed;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.thumbnail-caption{
+    margin: 5px;
+    background-color: grey;
+
+}
+
+.center{
+    text-align: center;
+}
